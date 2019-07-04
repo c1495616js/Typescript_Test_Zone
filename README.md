@@ -1,5 +1,15 @@
 ## Typescript Playground
 
+### Setup
+
 ```
-npm run dev
+tsc --init
+
+npm i -D concurrently nodemon
+```
+
+### Run
+
+```
+npm run start
 ```
